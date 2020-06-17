@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/image-hub/static/css/main.eb90b631.chunk.css",
-    "main.js": "/image-hub/static/js/main.04bc5eb3.chunk.js",
-    "main.js.map": "/image-hub/static/js/main.04bc5eb3.chunk.js.map",
-    "runtime-main.js": "/image-hub/static/js/runtime-main.778b9109.js",
-    "runtime-main.js.map": "/image-hub/static/js/runtime-main.778b9109.js.map",
-    "static/css/2.96b3b5e3.chunk.css": "/image-hub/static/css/2.96b3b5e3.chunk.css",
-    "static/js/2.5fd86662.chunk.js": "/image-hub/static/js/2.5fd86662.chunk.js",
-    "static/js/2.5fd86662.chunk.js.map": "/image-hub/static/js/2.5fd86662.chunk.js.map",
-    "index.html": "/image-hub/index.html",
-    "precache-manifest.9ad65cacde1ec2b9eaadabc6fdfc9310.js": "/image-hub/precache-manifest.9ad65cacde1ec2b9eaadabc6fdfc9310.js",
-    "service-worker.js": "/image-hub/service-worker.js",
-    "static/css/2.96b3b5e3.chunk.css.map": "/image-hub/static/css/2.96b3b5e3.chunk.css.map",
-    "static/css/main.eb90b631.chunk.css.map": "/image-hub/static/css/main.eb90b631.chunk.css.map",
-    "static/js/2.5fd86662.chunk.js.LICENSE.txt": "/image-hub/static/js/2.5fd86662.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/image-hub/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "http://brendagold.github.io/image-hub/static/css/main.eb90b631.chunk.css",
+    "main.js": "http://brendagold.github.io/image-hub/static/js/main.d0a537fe.chunk.js",
+    "main.js.map": "http://brendagold.github.io/image-hub/static/js/main.d0a537fe.chunk.js.map",
+    "runtime-main.js": "http://brendagold.github.io/image-hub/static/js/runtime-main.217542f2.js",
+    "runtime-main.js.map": "http://brendagold.github.io/image-hub/static/js/runtime-main.217542f2.js.map",
+    "static/css/2.b3a0abf4.chunk.css": "http://brendagold.github.io/image-hub/static/css/2.b3a0abf4.chunk.css",
+    "static/js/2.5fd86662.chunk.js": "http://brendagold.github.io/image-hub/static/js/2.5fd86662.chunk.js",
+    "static/js/2.5fd86662.chunk.js.map": "http://brendagold.github.io/image-hub/static/js/2.5fd86662.chunk.js.map",
+    "index.html": "http://brendagold.github.io/image-hub/index.html",
+    "precache-manifest.437400a6c4c15510e13f94dc199c0ed3.js": "http://brendagold.github.io/image-hub/precache-manifest.437400a6c4c15510e13f94dc199c0ed3.js",
+    "service-worker.js": "http://brendagold.github.io/image-hub/service-worker.js",
+    "static/css/2.b3a0abf4.chunk.css.map": "http://brendagold.github.io/image-hub/static/css/2.b3a0abf4.chunk.css.map",
+    "static/css/main.eb90b631.chunk.css.map": "http://brendagold.github.io/image-hub/static/css/main.eb90b631.chunk.css.map",
+    "static/js/2.5fd86662.chunk.js.LICENSE.txt": "http://brendagold.github.io/image-hub/static/js/2.5fd86662.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "http://brendagold.github.io/image-hub/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.778b9109.js",
-    "static/css/2.96b3b5e3.chunk.css",
+    "static/js/runtime-main.217542f2.js",
+    "static/css/2.b3a0abf4.chunk.css",
     "static/js/2.5fd86662.chunk.js",
     "static/css/main.eb90b631.chunk.css",
-    "static/js/main.04bc5eb3.chunk.js"
+    "static/js/main.d0a537fe.chunk.js"
   ]
 }
